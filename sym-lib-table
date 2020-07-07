@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "akm")(type "Legacy")(uri "${KIPRJMOD}/akm.lib")(options "")(descr ""))
+  (lib (name "mbialon")(type "Legacy")(uri "${KIPRJMOD}/mbialon.lib")(options "")(descr ""))
+)
