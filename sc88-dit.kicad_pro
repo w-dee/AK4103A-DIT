@@ -333,6 +333,8 @@
           "/TXN",
           "/TXP",
           "GND",
+          "Net-(J1-Pad3)",
+          "Net-(J1-Pad4)",
           "Net-(J3-Pad2)",
           "Net-(J3-Pad3)",
           "Net-(J3-Pad4)",
@@ -361,7 +363,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sc88-dit.step",
       "vmrl": ""
     },
     "page_layout_descr_file": ""
@@ -391,7 +393,7 @@
   },
   "sheets": [
     [
-      "0cded254-4061-4785-8968-6477b04a82d1",
+      "d5ba90ab-25f3-4047-95ff-54a1fb9ae3a0",
       ""
     ]
   ],
