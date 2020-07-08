@@ -333,17 +333,17 @@
           "/TXN",
           "/TXP",
           "GND",
-          "Net-(J1-Pad3)",
-          "Net-(J1-Pad4)",
+          "Net-(J1-Pad1)",
+          "Net-(J1-Pad2)",
           "Net-(J3-Pad2)",
           "Net-(J3-Pad3)",
           "Net-(J3-Pad4)",
           "Net-(J3-Pad5)",
           "Net-(J3-Pad6)",
           "Net-(J4-Pad1)",
+          "Net-(J4-Pad2)",
           "Net-(J4-Pad3)",
           "Net-(J4-Pad4)",
-          "Net-(J4-Pad5)",
           "Net-(J4-Pad6)",
           "Net-(R1-Pad1)",
           "Net-(U1-Pad2)"
@@ -393,7 +393,7 @@
   },
   "sheets": [
     [
-      "d5ba90ab-25f3-4047-95ff-54a1fb9ae3a0",
+      "8d49cf9d-1218-46be-978d-e8d3cc98a2f3",
       ""
     ]
   ],
