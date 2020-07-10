@@ -314,7 +314,6 @@
           "+5V",
           "/ANS",
           "/BICK",
-          "/BLK",
           "/BLS",
           "/CCLK",
           "/CDTI",
@@ -350,9 +349,7 @@
           "Net-(J4-Pad3)",
           "Net-(J4-Pad4)",
           "Net-(J4-Pad6)",
-          "Net-(JP10-Pad2)",
-          "Net-(JP7-Pad2)",
-          "Net-(R1-Pad1)",
+          "Net-(JP13-Pad2)",
           "Net-(U1-Pad2)",
           "Net-(U3-Pad7)",
           "Net-(U3-Pad8)"
@@ -402,7 +399,7 @@
   },
   "sheets": [
     [
-      "4b39313b-0125-40ce-b89a-e0d8e827fd3d",
+      "34f0f6e2-a207-4e1d-adf4-510d6b085dbe",
       ""
     ]
   ],
