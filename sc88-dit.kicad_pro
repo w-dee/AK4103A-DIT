@@ -313,7 +313,9 @@
         "nets": [
           "+5V",
           "/ANS",
+          "/BICK",
           "/BLK",
+          "/BLS",
           "/CCLK",
           "/CDTI",
           "/CDTO",
@@ -324,10 +326,13 @@
           "/DIF1",
           "/DIF2",
           "/HALF_MCLK",
+          "/I511_S0",
+          "/I511_S1",
           "/LEDA",
           "/LEDK",
           "/LRCK",
           "/MCLK",
+          "/MULDIV_CLK",
           "/RESET",
           "/SDAT",
           "/TXN",
@@ -345,8 +350,12 @@
           "Net-(J4-Pad3)",
           "Net-(J4-Pad4)",
           "Net-(J4-Pad6)",
+          "Net-(JP10-Pad2)",
+          "Net-(JP7-Pad2)",
           "Net-(R1-Pad1)",
-          "Net-(U1-Pad2)"
+          "Net-(U1-Pad2)",
+          "Net-(U3-Pad7)",
+          "Net-(U3-Pad8)"
         ],
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -393,7 +402,7 @@
   },
   "sheets": [
     [
-      "8d49cf9d-1218-46be-978d-e8d3cc98a2f3",
+      "4b39313b-0125-40ce-b89a-e0d8e827fd3d",
       ""
     ]
   ],
