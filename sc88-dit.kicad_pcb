@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 56)
+    (drawings 57)
     (tracks 622)
     (modules 81)
     (nets 40)
@@ -3857,6 +3857,9 @@
     )
   )
 
+  (gr_text "I2S to S/PDIF converter board\nRev. 1.0" (at 29.25 84.5) (layer "F.SilkS") (tstamp bb68989e-9654-41c4-a836-a5c1dc330b14)
+    (effects (font (size 2 2) (thickness 0.3)) (justify left))
+  )
   (gr_text "+5V" (at 44 94.25) (layer "F.SilkS") (tstamp 1dba82ea-bf31-4ae4-a014-ea68baed5828)
     (effects (font (size 1 1) (thickness 0.15)))
   )

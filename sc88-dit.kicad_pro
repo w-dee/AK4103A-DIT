@@ -314,7 +314,6 @@
           "+5V",
           "/ANS",
           "/BICK",
-          "/BLS",
           "/CCLK",
           "/CDTI",
           "/CDTO",
@@ -350,9 +349,7 @@
           "Net-(J4-Pad4)",
           "Net-(J4-Pad6)",
           "Net-(JP13-Pad2)",
-          "Net-(U1-Pad2)",
-          "Net-(U3-Pad7)",
-          "Net-(U3-Pad8)"
+          "Net-(U1-Pad2)"
         ],
         "track_width": 0.25,
         "via_diameter": 0.8,
